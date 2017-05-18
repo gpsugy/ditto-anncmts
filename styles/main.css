@@ -92,14 +92,20 @@ footer p {
 	color: white;
 }
 
-@media all and (max-width: 500px) {
+@media all and (max-width: 600px) {
+	/*.ditto-title {
+		width: 100%;
+	}*/
 	h2 {
-		font-size: 1.4em;
+		font-size: 1.3em;
+		/*font-size: 4em;*/
 	}
 	h3 {
 		font-size: 1.0em;
+		/*font-size: 3em;*/
 	}
 	p {
 		font-size: 1.0em;
+		/*font-size: 3em;*/
 	}
 }
