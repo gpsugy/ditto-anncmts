@@ -13,7 +13,7 @@ html {
 * {
 	-webkit-box-sizing: border-box;
 	        box-sizing: border-box;
-	font-family: "pokemon-font";
+	font-family: 'pokemon-font';
 	color: black;
 }
 
