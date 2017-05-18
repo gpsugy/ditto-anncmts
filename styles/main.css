@@ -8,6 +8,7 @@ html {
 	-webkit-box-pack: center;
 	    -ms-flex-pack: center;
 	        justify-content: center;
+	margin: 0 5px;
 }
 
 * {
@@ -89,4 +90,16 @@ footer {
 
 footer p {
 	color: white;
+}
+
+@media all and (max-width: 500px) {
+	h2 {
+		font-size: 1.4em;
+	}
+	h3 {
+		font-size: 1.0em;
+	}
+	p {
+		font-size: 1.0em;
+	}
 }
