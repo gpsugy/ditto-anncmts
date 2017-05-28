@@ -74,6 +74,14 @@ img {
 	margin-top: -5px;
 }
 
+.red {
+	color: #ff4b44;
+}
+
+.blue {
+	color: #3d7aff;
+}
+
 .reading-bar {
 	width: 100%;
 	height: 70%;
